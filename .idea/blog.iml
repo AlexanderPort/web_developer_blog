@@ -25,7 +25,7 @@
     <option name="TEMPLATE_CONFIGURATION" value="Django" />
     <option name="TEMPLATE_FOLDERS">
       <list>
-        <option value="$MODULE_DIR$/front/node_modules/workbox-build/src/templates" />
+        <option value="$MODULE_DIR$/frontend/node_modules/workbox-build/src/templates" />
       </list>
     </option>
   </component>
